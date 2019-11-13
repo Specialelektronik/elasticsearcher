@@ -1,5 +1,5 @@
 {
-	"name": "specialelektronik/elasticsearcher",
+	"name": "special-elektronik/elasticsearcher",
 	"description": "Wrapper on top of the ElasticSearch PHP SDK which allows easier index/document/query management.",
 	"keywords": ["elastic","elasticsearch"],
 	"license": "MIT",
